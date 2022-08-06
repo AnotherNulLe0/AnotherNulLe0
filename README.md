@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there!
+My nickname is *NulLe0*, but it's already claimed, so on github my nickname is *AnotherNulLe0*.
 
-- 🌱 I’m currently learning `python`
-- ⚡ Fun fact: Visit website on my page :)
+Also I'm learning C# and Unity 
